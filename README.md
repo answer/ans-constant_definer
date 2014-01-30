@@ -35,7 +35,7 @@ Or install it yourself as:
 
 1. Ans::ConstantDefiner を include すると `const_def` クラスメソッドを定義
 1. `const_def` の第一引数の `upcase` で第二引数を定数として定義
-1. 第一引数のクラスメソッド、インスタンスメソッドを定義して第二引数を返す
+1. `const_def` は第一引数のクラスメソッド、インスタンスメソッドを定義して第二引数を返す
 
 ## Setting
 
